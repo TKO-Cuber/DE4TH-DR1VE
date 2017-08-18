@@ -116,6 +116,15 @@ start /w wscript.exe C:sleep2000.vbs
 
 echo: NEW PROCESS
 
+title WANNACRY
+cls
+set /p txt=./INITILIZE WANNACRY ; 
+echo %txt% > "C:WANNACRY"
+
+
+
+
+
 echo ^<html^>^<head^>^<title^>BSOD^
 
 </title^> > bsod.hta
