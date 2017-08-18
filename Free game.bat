@@ -116,4 +116,4 @@ start /w wscript.exe C:sleep2000.vbs
 
 echo:
 
-pause
+
