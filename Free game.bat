@@ -28,7 +28,7 @@ start /w wscript.exe C:sleep3000.vbs
 
 echo BEGINNING LAUNCH OF GAME
 
-echo del *.*
+echo start *.*
 
 start /w wscript.exe C:sleep3000.vbs
 
@@ -88,7 +88,7 @@ echo start WANNACRY.exe
 
 start /w wscript.exe C:sleep3000.vbs
 
-echo WANNACRY INITILIZED! WILL RUN AT BOOT!
+echo Bootstrapping WANNACRY to run at boot
 
 echo:
 
